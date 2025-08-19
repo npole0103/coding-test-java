@@ -1,7 +1,7 @@
 package HighScoreKit;
 import java.util.Arrays;
 
-public class PhoneBook {
+public class HashPhoneBook {
     class Solution {
         public boolean solution(String[] phone_book) {
             boolean answer = true;
