@@ -1,3 +1,5 @@
+package basic;
+
 public class Search {
 
     public static boolean binarySearch(int[] arr, int target) {

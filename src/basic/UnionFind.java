@@ -1,3 +1,5 @@
+package basic;
+
 public class UnionFind {
     private int[] parent;
     
