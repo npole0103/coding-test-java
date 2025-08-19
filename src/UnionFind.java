@@ -62,6 +62,9 @@ public class UnionFind {
         uf.union(1,2);
         uf.union(3, 4);
 
+        System.out.println(uf.findParent(0, 1));
+        System.out.println(uf.findParent(0, 3));
+
         uf.printParents();
     }
 }
