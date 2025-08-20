@@ -1,4 +1,4 @@
-import java.util.Arrays;
+import java.util.*;
 
 public class Test {
     public static void main(String[] args) {
@@ -9,5 +9,6 @@ public class Test {
         Arrays.sort(arr);
         
         aa.contains(bb);
+
     }
 }
